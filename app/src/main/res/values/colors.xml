@@ -9,5 +9,7 @@
     <color name="mediumblue">#0000CD</color>
     <color name="darkorange">#FF8C00</color>
     <color name="lightgreen">#008A00</color>
+    <color name="lawngreen">#94DD4E</color>
+    <color name="grey">#808080</color>
 
 </resources>
